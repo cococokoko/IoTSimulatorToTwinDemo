@@ -24,7 +24,7 @@ az dt twin create  --dt-name <instance-hostname-or-name> --dtmi "dtmi:contosocom
 Downlaod a free .glb file to integrate Twin IoT simulation in a visualisation 
 (e.g. https://sketchfab.com/3d-models/under-construction-skyscraper-mineopolis-0bdaa04334b2470690f61da73431bdd2)
 
-![Screenshot](./Screenshot 2023-03-27 at 14.59.01.png)
+![Screenshot](./Screenshot2.png)
 
 
 ### Resources
